@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there!✨
 
-<!--
-**anu-bazar/anu-bazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Anu.👩‍💻 Outside of programming, I love to hike🗻, ski⛷️ and take photos with my Canon Rebel XS📸.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+#### What I know so far⭐:
+**Front-End**: HTML5, CSS3, JavaScript
+**Back-End**: Python, Flask, SQL/MySQL, NoSQL/MongoDB
+**Version control**: Git, GitHub
+**Data analysis**: Python libraries - Pandas, Matplotlib, Seaborn, Jupyter Notebooks/Google CoLab
+**Additional technologies**: RESTful APIs, asynchronous programming in JS, React, Unit testing
+
+#### Currently working on👩‍🎓: 
+
+Advent of Code 2023 Challenge!
+https://adventofcode.com/2023/
+
