@@ -1,10 +1,10 @@
 ### Hi there!✨
 
-
+---
 My name is Anu.👩‍💻 Outside of programming, I love to hike🗻, ski⛷️ and take photos with my Canon Rebel XS📸.
 
 
----
+
 #### What I know so far⭐:
 **Front-End**: HTML5, CSS3, JavaScript
 **Back-End**: Python, Flask, SQL/MySQL, NoSQL/MongoDB
