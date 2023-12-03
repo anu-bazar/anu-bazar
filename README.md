@@ -18,7 +18,6 @@ My name is Anu.👩‍💻 Nice to meet you!
 > Advent of Code 2023 Challenge!
 > https://adventofcode.com/2023/
 
----
 #### Fun facts about me👀:
 * I speak Mongolian! Only 3 million people speak my dialect.
 * Outside of programming, I love to hike, ski and take photos with my Canon Rebel XS. 
