@@ -1,9 +1,8 @@
-### Hi there!✨
+### Hi there!✨ My name is Anu.👩‍💻 
 
 ---
-My name is Anu.👩‍💻 Nice to meet you!
 
-
+Welcome to my Github page!
 
 #### Here's what I know so far⭐:
 * **Front-End**: HTML5, CSS3, JavaScript
