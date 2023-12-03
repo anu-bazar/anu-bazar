@@ -18,6 +18,6 @@ Welcome to my Github page!
 > https://adventofcode.com/2023/
 
 #### Fun facts about me👀:
-* I speak Mongolian! Only 3 million people speak my dialect.
+* I speak Mongolian! 
 * Outside of programming, I love to hike, ski and take photos with my Canon Rebel XS. 
 * I can also play the zither (Mongolian: Ятга)! ✨
