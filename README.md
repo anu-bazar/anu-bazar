@@ -10,7 +10,7 @@ My name is Anu.👩‍💻 Outside of programming, I love to hike🗻, ski⛷️
 * **Back-End**: Python, Flask, SQL/MySQL, NoSQL/MongoDB
 * **Version control**: Git, GitHub
 * **Data analysis**: Python libraries - Pandas, Matplotlib, Seaborn, Jupyter Notebooks/Google CoLab
-* **Additional technologies**: RESTful APIs, asynchronous programming in JS, React, Unit testing
+* **Additional tools that I'm familiar with**: RESTful APIs, asynchronous programming in JS, React, Unit testing
 
 
 #### Currently working on👩‍🎓: 
