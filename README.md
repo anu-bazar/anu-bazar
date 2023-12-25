@@ -9,7 +9,7 @@ Welcome to my Github page!
 * **Back-End**: Python, Flask, SQL/MySQL, NoSQL/MongoDB
 * **Version control**: Git, GitHub
 * **Data analysis**: R libraries - ggplot2, dplyr, tidyverse. Python libraries - Pandas, Matplotlib, Seaborn, Jupyter/Google CoLab.
-* **Additional tools that I'm familiar with**: RESTful APIs, asynchronous programming in JS, React, Unit testing
+* **Additional tools/skills that I'm familiar with**: RESTful APIs, asynchronous programming in JS, React, Unit testing, Code Review
 
 
 #### I'm currently working on👩‍🎓: 
