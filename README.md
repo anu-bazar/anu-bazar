@@ -14,8 +14,7 @@ Welcome to my Github page!
 
 #### I'm currently working on👩‍🎓: 
 
-> Advent of Code 2023 Challenge!
-> https://adventofcode.com/2023/
+> 10'000 Hours of Coding Challenge!
 
 #### Fun facts about me👀:
 * I speak Mongolian fluently! 🇲🇳
