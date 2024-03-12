@@ -5,7 +5,7 @@
 Welcome to my Github page!
 
 #### Here's what I know so far⭐:
-* **Front-End**: HTML5, CSS3, JavaScript
+* **Front-End**: HTML5, CSS3, JavaScript, React, Next.js, Tailwind 
 * **Back-End**: Python, Flask, SQL/MySQL, NoSQL/MongoDB
 * **Version control**: Git, GitHub
 * **Data analysis**: R libraries - ggplot2, dplyr, tidyverse. Python libraries - Pandas, Matplotlib, Seaborn, Jupyter/Google CoLab.
