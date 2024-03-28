@@ -35,6 +35,5 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 
 ---
 
-My projects: COMING SOON!
+## My projects: COMING SOON!
 
-👌🏻 My projects (school projects)
