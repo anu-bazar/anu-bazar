@@ -4,7 +4,7 @@
 
 Welcome to my Github page!
 
-👩🏻‍💻 About me
+## 👩🏻‍💻 About me
 
 Hello, my name is Anu 👋🏻
 
@@ -14,7 +14,7 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 
 ---
 
-🔗 I work with:
+## 🔗 I work with:
 - ✘ JavaScript
 - ✘ NextJS
 - ✘ R libraries - ggplot2, dplyr, tidyverse
