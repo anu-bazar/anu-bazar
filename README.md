@@ -15,23 +15,23 @@ As I enjoyed it a lot and wanted to learn more, I decided to step further by joi
 ---
 
 ## 🔗 I work with:
-- ✘ JavaScript
-- ✘ NextJS
-- ✘ R libraries - ggplot2, dplyr, tidyverse
-- ✘ Python libraries - Pandas, Matplotlib, Seaborn
-- ✘ Tailwind
-- ✘ HTML5
-- ✘ CSS3
-- ✘ NodeJS
-- ✘ GIT
-- ✘ Heroku
-- ✘ MongoDB
-- ✘ SQLite
-- ✘ Postman
-- ✘ MySQL
-- ✘ Visual Studio Code
-- ✘ Jira
-- ✘ Figma
+-  JavaScript
+-  NextJS
+-  R libraries - ggplot2, dplyr, tidyverse
+-  Python libraries - Pandas, Matplotlib, Seaborn
+-  Tailwind
+-  HTML5
+-  CSS3
+-  NodeJS
+-  GIT
+-  Heroku
+-  MongoDB
+-  SQLite
+-  Postman
+-  MySQL
+-  Visual Studio Code
+-  Jira
+-  Figma
 
 ---
 
