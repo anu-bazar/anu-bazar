@@ -1,23 +1,40 @@
-### Hi there!✨ My name is Anu.👩‍💻 
+### README.md
 
 ---
 
 Welcome to my Github page!
 
-#### Here's what I know so far⭐:
-* **Front-End**: HTML5, CSS3, JavaScript, React, Next.js, Tailwind 
-* **Back-End**: Python, Flask,
-* **Databases**: MySQL, MongoDB, SQLite
-* **Version control**: Git, GitHub
-* **Data analysis**: R libraries - ggplot2, dplyr, tidyverse. Python libraries - Pandas, Matplotlib, Seaborn, Jupyter/Google CoLab.
-* **Additional tools/skills that I'm familiar with**: RESTful APIs, asynchronous programming in JS, React, Unit testing, Code Review
+👩🏻‍💻 About me
 
+Hello, my name is Anu 👋🏻
 
-#### I'm currently working on👩‍🎓: 
+Thanks to various bootcamps, The Odin Project and freeCodeCamp, I started to teach myself Javascript and Python step by step.
 
-> 10'000 Hours of Coding Challenge!
+As I enjoyed it a lot and wanted to learn more, I decided to step further by joining a Bootcamp at Code First Girls, to become a Software Developer.
 
-#### Fun facts about me👀:
-* I speak Mongolian fluently! 🇲🇳
-* Outside of programming, I love to hike, ski and take photos with my Canon Rebel XS. 
-* I can also play the zither (Mongolian: Ятга)! ✨
+---
+
+🔗 I work with:
+✘ JavaScript
+✘ NextJS
+✘ R libraries - ggplot2, dplyr, tidyverse
+✘ Python libraries - Pandas, Matplotlib, Seaborn
+✘ Tailwind
+✘ HTML5
+✘ CSS3
+✘ NodeJS
+✘ GIT
+✘ Heroku
+✘ MongoDB
+✘ SQLite
+✘ Postman
+✘ MySQL
+✘ Visual Studio Code
+✘ Jira
+✘ Figma
+
+---
+
+My projects: COMING SOON!
+
+👌🏻 My projects (school projects)
