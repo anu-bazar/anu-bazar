@@ -1,14 +1,10 @@
 ### README.md
 
----
-
-Welcome to my Github page!
 
 ## 👩🏻‍💻 About me
 
 Hello, my name is Anu 👋🏻 I'm a bioinformatician/software dev!
 
----
 
 ## 🔗 I work with:
 -  JavaScript
