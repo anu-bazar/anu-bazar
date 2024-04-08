@@ -6,7 +6,7 @@ Welcome to my Github page!
 
 ## 👩🏻‍💻 About me
 
-Hello, my name is Anu 👋🏻 I'm a bioinformatician and software engineer!
+Hello, my name is Anu 👋🏻 I'm a bioinformatician/software dev!
 
 ---
 
