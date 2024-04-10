@@ -27,5 +27,4 @@ Hello, my name is Anu 👋🏻 I'm a bioinformatician/software dev!
 
 ---
 
-## My projects: COMING SOON!
 
