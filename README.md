@@ -1,10 +1,7 @@
-### README.md
-
 
 ## 👩🏻‍💻 About me
 
 Hello, my name is Anu 👋🏻 I'm a bioinformatician/wannabe software dev!
-
 
 ## 🔗 I work with:
 -  JavaScript
