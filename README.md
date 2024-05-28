@@ -20,7 +20,7 @@ Hello, my name is Anu 👋🏻 I'm a bioinformatician with a zest for software d
 - **C/C++**
 - **SQL**: SQLite, MySQL
 - **NoSQL**: MongoDB
-Misc.:
+### Misc.:
 - **Jira**
 - **Figma**
 - **RestAPI**
