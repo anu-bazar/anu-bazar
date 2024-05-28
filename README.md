@@ -4,11 +4,12 @@ Hello, my name is Anu 👋🏻 I'm a bioinformatician with a zest for software d
 
 ## 🔗 Technologies & Tools I Work With:
 
-### Data Science & AI:
+### Data Science & ML:
 - **R libraries**: ggplot2, dplyr, tidyverse
 - **Python libraries**: Pandas, Matplotlib, Seaborn
-- **Biomathematical modeling**
-- **Artificial Intelligence**
+- **Biomathematical Modeling**
+- **Machine Learning Fundamentals**
+- **Statistics/ Statistical Analysis**
 
 ### Software Development:
 - **JavaScript**
