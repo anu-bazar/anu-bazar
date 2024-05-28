@@ -12,15 +12,17 @@ Hello, my name is Anu 👋🏻 I'm a bioinformatician with a zest for software d
 
 ### Software Development:
 - **JavaScript**
+- **TypeScript**
 - **Tailwind**
 - **HTML5/CSS3**
 - **GIT/GitHub**
-- **MongoDB**
-- **SQLite**
-- **MySQL**
+- **C/C++**
+- **SQL**: SQLite, MySQL
+- **NoSQL**: MongoDB
+Misc.:
 - **Jira**
 - **Figma**
-
+- **RestAPI**
 
 ## 💡 Methodologies & Expertise:
 - Agile work methodologies
@@ -33,7 +35,7 @@ Hello, my name is Anu 👋🏻 I'm a bioinformatician with a zest for software d
 ### 🌟 Highlights:
 - Passionate about leveraging AI for bioinformatics
 - Skilled in creating interactive and insightful data visualizations
-- Experienced in collaborative, agile environments
+- Experienced in collaborative, self-starting environments
 - Strong foundation in OOP for building robust applications
 
 ---
