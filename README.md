@@ -26,4 +26,4 @@ alization, documentation, and pitch deck
 
 ---
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! Let's create something amazing together 🚀
+Feel free to explore my repos!
