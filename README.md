@@ -1,44 +1,28 @@
 ## 👩🏻‍💻 About Me
 
-Hello, my name is Anu 👋🏻 I'm a bioinformatician with a zest for software development. I like turning data into actionable insights and crafting elegant solutions to complex problems.
+Hello, my name is Anu 👋🏻 
+I'm a bioinformatician and I like to build projects for fun!
 
-## 🔗 Technologies & Tools I Work With:
+I hold a Bioinformatics degree, and two bootcamp certificates in software development and data analysis. 
 
-### Data Science & ML:
-- **R libraries**: ggplot2, dplyr, tidyverse
-- **Python libraries**: Pandas, Matplotlib, Seaborn
-- **Biomathematical Modeling**
-- **Machine Learning Fundamentals**
-- **Statistics/ Statistical Analysis**
-
-### Software Development:
-- **JavaScript**
-- **TypeScript**
-- **Tailwind**
-- **HTML5/CSS3**
-- **GIT/GitHub**
-- **C/C++**
-- **Java**
-- **SQL**: SQLite, MySQL
-- **NoSQL**: MongoDB
-### Misc.:
-- **Jira**
-- **Figma**
-- **RestAPI**
-
-## 💡 Familiar Methodologies:
-- Agile work methodologies
-- Data analysis and visualization
-- Software development best practices
-- Object-Oriented Programming (OOP)
 ---
+## Project Highlights
 
-### 🌟 Highlights:
-- Passionate about leveraging AI for bioinformatics
-- Skilled in creating interactive and insightful data visualizations
-- Experienced in research projects
-- Familiar with collaborative, self-starting environments
-- Strong foundation in application maintenance
+#### Multi-faceted Analysis and Classification of Spotify Tracks - 2023
+⋄ Developed a recommendation system using ML techniques, PCA, and
+correlation heatmap analysis on Spotify Tracks dataset. Employed Pandas,
+Sklearn, Numpy, TensorFlow, Keras, Plotly, Seaborn, Matplotlib on Google
+CoLab. Techniques included Random Forest, Gradient Boosting, FNN, MLP.
+
+#### Chill Pill - The Mood Tracker App - Bootcamp Project. 2023
+⋄ Developed a CRUD app for mood tracking, enabling interaction with a Mon-
+goDB database for entry manipulation. Led the database team, integrated
+MongoDB with Flask, and added delete/update endpoints.
+
+#### Project Skywatcher - 2021 Microsoft Imagine Cup 2021
+⋄ Contributed to a user-report based heatmap of air pollution levels. Man-
+aged preliminary data collection, cleaning, preprocessing, integration, visu-
+alization, documentation, and pitch deck
 
 ---
 
