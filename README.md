@@ -15,14 +15,12 @@ Sklearn, Numpy, TensorFlow, Keras, Plotly, Seaborn, Matplotlib on Google
 CoLab. Techniques included Random Forest, Gradient Boosting, FNN, MLP.
 
 #### Chill Pill - The Mood Tracker App - Bootcamp Project. 2023
-⋄ Developed a CRUD app for mood tracking, enabling interaction with a Mon
-goDB database for entry manipulation. Led the database team, integrated
+⋄ Developed a CRUD app for mood tracking, enabling interaction with a MongoDB database for entry manipulation. Led the database team, integrated
 MongoDB with Flask, and added delete/update endpoints.
 
 #### Project Skywatcher - 2021 Microsoft Imagine Cup 2021
 ⋄ Contributed to a user-report based heatmap of air pollution levels. Man
-aged preliminary data collection, cleaning, preprocessing, integration, visu
-alization, documentation, and pitch deck
+aged preliminary data collection, cleaning, preprocessing, integration, visualization, documentation, and pitch deck
 
 ---
 
