@@ -1,4 +1,4 @@
-My name is Anu, and I am an Aspiring Software Engineer. :D
+Hello!
 
 **My curent tech stack**:
 - Frontend: HTML5/CSS3, Javascript
