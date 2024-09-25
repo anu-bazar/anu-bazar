@@ -4,7 +4,7 @@ Hello!
 - Frontend: HTML5/CSS3, Javascript
 - Backend: Python, PHP
 - Databases: SQL(MySQL, MariaDB), MongoDB
-- Data analysis: R (tidyverse), Python (Pandas, Sci-kit learn , NumPy) 
+- Data analysis: R (tidyverse), Python (Pandas, Sci-kit learn , NumPy), Julia
 
 **Other cool stuff I'm familiar with**:
 - OOP Fundamentals
